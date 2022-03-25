@@ -254,7 +254,6 @@ export function handleEvents(
 /** Allows keyboard navigation through given container element(s). Options include modifying the Tab key
  * behaviour to navigate containers rather than their children (`tabKeyContainerLevel: boolean = false`), and a toggle to automatically select elements
  * within individual containers (`autoSelect: boolean | {[containerIndex: number]: boolean}` (default `false`)).
- * see https://github.com/wegotpop/popsss/wiki/useArrowKeyNavigation-hook for documentation & examples.
  * @param {Container | Container[]} container The parent container or array of containers to navigate
  * @param {Options} options An object containing optional customisations of the event handler behaviour
  */
