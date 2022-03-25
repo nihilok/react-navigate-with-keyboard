@@ -1,0 +1,32 @@
+{
+  "name": "react-navigate-with-keyboard",
+  "version": "1.0.0",
+  "description": "React hook for easily using keyboard (arrow keys etc) to navigate focusable elements within a container / group of containers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihilok/react-navigate-with-keyboard.git"
+  },
+  "keywords": [
+    "react",
+    "keyboard",
+    "navigation",
+    "accessibility",
+    "keys",
+    "arrow",
+    "focus"
+  ],
+  "author": "Michael Jarvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nihilok/react-navigate-with-keyboard/issues"
+  },
+  "homepage": "https://github.com/nihilok/react-navigate-with-keyboard#readme",
+  "dependencies": {
+    "tslib": "^2.3.1",
+    "typescript": "^4.6.3"
+  }
+}
